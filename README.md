@@ -71,6 +71,6 @@ Alguns outros desenhos gerados pelo programa:
 
 Neste palhaço, as lágrimas foram desenhadas em profundidades diferentes.
 
-Nesse outro exemplo, foram colocados figuras e cortes aleatórios, apenas com a finalidade de mostrar uma visualização de como ficam as formas quando desenhadas em várias profundidades diferentes.
+Já nesse outro exemplo, foram colocados figuras e cortes aleatórios, apenas com a finalidade de mostrar uma visualização de como ficam as formas quando desenhadas em várias profundidades diferentes.
 
 ![seila](https://user-images.githubusercontent.com/56892661/102615466-bd89ad00-4114-11eb-9ec3-2e4e378a81f5.png)
