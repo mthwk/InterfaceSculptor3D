@@ -64,4 +64,13 @@ Em seguida, o arquivo gerado pode ser aberto utilizando um dos softwares anterio
 
 ![arquivogerado](https://user-images.githubusercontent.com/56892661/102611173-2ff68f00-410d-11eb-9e36-6a3f1155b834.png)
 
-Alguns outros desenhos gerados pelo programa.
+Alguns outros desenhos gerados pelo programa:
+
+![paiasso](https://user-images.githubusercontent.com/56892661/102615462-bc588000-4114-11eb-9a43-634a6a46a039.png)
+![paiassov](https://user-images.githubusercontent.com/56892661/102615463-bd89ad00-4114-11eb-9125-949b419677f3.png)
+
+Neste palhaço, as lágrimas foram desenhadas em profundidades diferentes.
+
+Nesse outro exemplo, foram colocados figuras e cortes aleatórios, apenas com a finalidade de mostrar uma visualização de como ficam as formas quando desenhadas em várias profundidades diferentes.
+
+![seila](https://user-images.githubusercontent.com/56892661/102615466-bd89ad00-4114-11eb-9ec3-2e4e378a81f5.png)
