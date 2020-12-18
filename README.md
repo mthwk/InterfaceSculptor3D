@@ -2,7 +2,7 @@
 
 Repositório que contém a terceira etapa do Escultor 3D que servirá como nota para terceira unidade do componente curricular Programação Avançada - DCA1202.
 
-Utilizando uma interface desenvolvida através do QTCreator, o usuário pode desenhar diversas figuras, como cubos, paralelepípedos, esferas, elipses, que são geradas através de voxels.
+Utilizando uma interface desenvolvida através do QTCreator, o usuário pode desenhar diversas figuras, como cubos, paralelepípedos, esferas, elipses, que são geradas através de voxels. O arquivo resultado do desenho é salvo no formato OFF, e pode ser aberto utilizando os softwares MeshLab (Windows e Linux) e GeomView(Linux).
 
 # Integrantes do grupo:
 
@@ -34,6 +34,18 @@ Através dessa ferramenta o usuário pode definir o tamanho do Canvas no qual os
 
 ![dimensionamento](https://user-images.githubusercontent.com/56892661/102610680-5b2cae80-410c-11eb-8356-91241226c57f.png)
 
-Aqui o usuário pode definir os raios que deseja desenhar as esferas e elipses, bem como as dimensões para o desenho da caixa. (As medidas escolhidas também valem para as funções de cortar).
+<p align="justify"> Aqui o usuário pode definir os raios que deseja desenhar as esferas e elipses, bem como as dimensões para o desenho da caixa. (As medidas escolhidas também valem para as funções de cortar).</p align="justify">
 
-# 
+# Profundidade
+
+![profundidade](https://user-images.githubusercontent.com/56892661/102610685-5bc54500-410c-11eb-9f57-ed4db16f3b43.png)
+
+<p align="justify"> Escolhendo entre as opções <i> XY, YZ e XZ </i> Alterando a profundidade o usuário consegue caminhar em um dos eixos, após fixar o plano escolhido anteriormente. </p align="justify">
+
+# Escolhendo a cor e a transparência
+
+![cor e transparência](https://user-images.githubusercontent.com/56892661/102610676-5a941800-410c-11eb-9af5-32313ef094ef.png)
+
+<p align="justify"> O usuário consegue escolher o valor da cor alterando os parâmetros RGB, que variam de 1~245 (não está variando de 0~255 devido a empecilhos com a forma como MeshLab lê os canais RGB.).
+Além da escolha das cores, o usuário também pode escolher a transparência da figura que ele está desenhando, através do parâmetro A. </p align="justify">
+
