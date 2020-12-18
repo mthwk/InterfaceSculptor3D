@@ -49,3 +49,19 @@ Através dessa ferramenta o usuário pode definir o tamanho do Canvas no qual os
 <p align="justify"> O usuário consegue escolher o valor da cor alterando os parâmetros RGB, que variam de 1~245 (não está variando de 0~255 devido a empecilhos com a forma como MeshLab lê os canais RGB.).
 Além da escolha das cores, o usuário também pode escolher a transparência da figura que ele está desenhando, através do parâmetro A. </p align="justify">
 
+# Exemplos de execução.
+
+![canvas com coração](https://user-images.githubusercontent.com/56892661/102610687-5c5ddb80-410c-11eb-8688-b2a88eaba3d2.png)
+
+Utilizando apenas a função PutVoxel, foi desenhado um coração para ilustrar o funcionamento do programa.
+
+<p align="justify"> Após a conclusão do desenho, o usuário pode acessar o menu ao clicar na opção "File", localizada no canto superior esquerdo da tela. A partir dela ele pode salvar o arquivo (ou sair do programa). </p align="justify">
+
+![menu](https://user-images.githubusercontent.com/56892661/102613041-8e713c80-4110-11eb-9979-2a0e98383e91.png)
+![confirmacao de salvar](https://user-images.githubusercontent.com/56892661/102610672-59fb8180-410c-11eb-8e77-4caf6aabef09.png)
+
+Em seguida, o arquivo gerado pode ser aberto utilizando um dos softwares anteriormente comentados: MeshLab ou GeomView.
+
+![arquivogerado](https://user-images.githubusercontent.com/56892661/102611173-2ff68f00-410d-11eb-9e36-6a3f1155b834.png)
+
+Alguns outros desenhos gerados pelo programa.
